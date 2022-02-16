@@ -4,7 +4,7 @@
 
 ### 效果一：
 
-![](C:\Users\admin\Desktop\GIF1.gif)
+![](https://github.com/dee-wei/css-Loading-styles/blob/main/GIF1.gif)
 
 ##### html:
 
@@ -79,7 +79,7 @@
 
 ### 效果二：
 
-![](C:\Users\admin\Desktop\GIF2.gif)
+![](https://github.com/dee-wei/css-Loading-styles/blob/main/GIF2.gif)
 
 ##### html:
 
@@ -126,7 +126,7 @@
 
 ### 效果三：
 
-![](C:\Users\admin\Desktop\GIF3.gif)
+![](https://github.com/dee-wei/css-Loading-styles/blob/main/GIF3.gif)
 
 ##### html:
 
@@ -189,7 +189,7 @@
 
 ### 效果四：
 
-![](C:\Users\admin\Desktop\GIF4.gif)
+![](https://github.com/dee-wei/css-Loading-styles/blob/main/GIF4.gif)
 
 ##### html:
 
@@ -262,7 +262,7 @@
 
 ### 效果五：
 
-![](C:\Users\admin\Desktop\GIF5.gif)
+![](https://github.com/dee-wei/css-Loading-styles/blob/main/GIF5.gif)
 
 ##### html:
 
@@ -334,7 +334,7 @@
 
 ### 效果六：
 
-![](C:\Users\admin\Desktop\GIF6.gif)
+![](https://github.com/dee-wei/css-Loading-styles/blob/main/GIF6.gif)
 
 ##### html:
 
@@ -403,7 +403,7 @@
 
 ### 效果七：
 
-![](C:\Users\admin\Desktop\GIF7.gif)
+![](https://github.com/dee-wei/css-Loading-styles/blob/main/GIF7.gif)
 
 ##### html:
 
@@ -453,7 +453,7 @@
 
 ### 效果八：
 
-![](C:\Users\admin\Desktop\GIF8.gif)
+![](https://github.com/dee-wei/css-Loading-styles/blob/main/GIF8.gif)
 
 ##### html:
 
